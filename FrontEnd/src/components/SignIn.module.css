@@ -1,0 +1,46 @@
+.signinContainer {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    position: relative;
+    top:20vh;
+    
+  }
+  .bdy{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://images.unsplash.com/photo-1486912500284-6f2462ba07ea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTl8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=600&q=60');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+  }
+
+  
+  .formGroup {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+  }
+  
+
+  .buttn {
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 7px;
+  }
+  
+  .buttn:hover {
+    background-color: #45a049;
+  }
+  
